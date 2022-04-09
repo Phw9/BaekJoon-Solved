@@ -4,6 +4,9 @@ using namespace std;
 typedef int LData;
 #define TRUE 1;
 #define FALSE 0;
+/* 
+Linked List Class
+*/
 
 typedef struct _Node {
 	LData data;
